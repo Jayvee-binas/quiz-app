@@ -3,39 +3,39 @@ import './App.css';
 
 const questions = [
   {
-    question: "What is the capital of France?",
-    options: ["Paris", "Madrid", "Berlin", "Rome"],
-    answer: "Paris",
+    question: "Who wrote '1984'?",
+    options: ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"],
+    answer: "George Orwell",
   },
   {
-    question: "Which planet is known as the Red Planet?",
-    options: ["Earth", "Mars", "Jupiter", "Venus"],
-    answer: "Mars",
+    question: "Which novel features the character Holden Caulfield?",
+    options: ["The Catcher in the Rye", "Lord of the Flies", "The Great Gatsby", "Of Mice and Men"],
+    answer: "The Catcher in the Rye",
   },
   {
-    question: "Who wrote 'To Kill a Mockingbird'?",
+    question: "Who is the author of 'Pride and Prejudice'?",
     options: [
-      "Harper Lee",
-      "Mark Twain",
-      "J.K. Rowling",
-      "Ernest Hemingway",
+      "Jane Austen",
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Virginia Woolf",
     ],
-    answer: "Harper Lee",
+    answer: "Jane Austen",
   },
   {
-    question: "What is the largest ocean on Earth?",
+    question: "What is the first book in J.R.R. Tolkien's 'The Lord of the Rings' trilogy?",
     options: [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean",
-      "Pacific Ocean",
+      "The Two Towers",
+      "The Fellowship of the Ring",
+      "The Return of the King",
+      "The Hobbit",
     ],
-    answer: "Pacific Ocean",
+    answer: "The Fellowship of the Ring",
   },
   {
-    question: "Which language runs in a web browser?",
-    options: ["Java", "C", "Python", "JavaScript"],
-    answer: "JavaScript",
+    question: "Which Shakespeare play features the line 'To be, or not to be'?",
+    options: ["Hamlet", "Macbeth", "Romeo and Juliet", "King Lear"],
+    answer: "Hamlet",
   },
 ];
 
